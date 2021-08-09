@@ -1,0 +1,2 @@
+# stablecoin
+stablecoin proposal
