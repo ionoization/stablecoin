@@ -27,5 +27,7 @@ OSMO/ATOM pair is submitted for loan of Proton.  100$ value of GAMM = 50$ value 
 So by entering GAMM into the loan protocol you will be diversifying the holdings of the protocol, giving less risk to the reserves in the event of a bank run.  You will be paying down your loan by with the risk portfolio assigned to the GAMM you deposit and you will be earning on the yield from the Proton loan given. 
 This is a win-win scenario.
 
+# NB: All original text written by Mr. DynamicManic, I just gitted his exact words and noted a dependency.
+
 
 
